@@ -20,7 +20,7 @@ namespace LaoProgrammLibrary
             {
                 return String.Format("{0} {1} {2}€", FirstName, LastName, PaymentDue );
             }
-
+        // komm
         }
 
         public Vendor()
